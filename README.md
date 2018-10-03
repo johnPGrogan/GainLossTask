@@ -1,6 +1,9 @@
 # GainLossTask
 Matlab code for running the GainLoss task
 
+Please cite this code as:
+Grogan, J.P. & Isotalus, H.K. (2018). GainLossTask, v2.0. Github. https://github.com/johnPGrogan/GainLossTask/releases/tag/v2.0
+
 This repo contains the MATLAB code to run the GainLoss experiment, created by John Grogan and Hanna Isotalus, based on the task reported in:
 	Pessiglione, M., Seymour, B., Flandin, G.,  Dolan, R.J., & Frith, C.D. (2006). Dopamine-dependent prediction errors  underpin reward-seeking behaviour in humans. Nature, 442, (7106),  pp1042-1045.
 
